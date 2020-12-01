@@ -1,0 +1,21 @@
+{
+  "name": "dataVisuals",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "d3": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "webpack": "^5.9.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
