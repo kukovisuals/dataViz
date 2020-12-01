@@ -10,4 +10,4 @@ This is for webpack 4
 + npm install webpack webpack-cli --save-dev
 + npm install --save d3
 
-for more information go to <a href="www.webpack.js.org/guides/getting-started">webpack</a> 
+for more information go to www.webpack.js.org/guides/getting-started
